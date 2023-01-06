@@ -2,18 +2,23 @@
 }
 
 .disabled {
+
 }
 
 .secondary {
+    color: blue;
 }
 
 .default {
+    color: black;
 }
 
 .red {
+    color: red;
 }
 
 .default:hover {
+
 }
 
 .red:hover {
@@ -30,7 +35,10 @@
 }
 
 .red:active {
+
 }
 
 .button:disabled {
+    color: black;
+    opacity: 0.5;
 }
